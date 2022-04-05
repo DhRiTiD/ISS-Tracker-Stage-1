@@ -87,6 +87,7 @@ const styles = StyleSheet.create({
     color: 'white',
   },
   routeText: {
+    //chipmunk
     fontSize: 35,
     fontWeight: 'bold',
     color: 'black',
@@ -115,4 +116,3 @@ const styles = StyleSheet.create({
     top: -70,
   },
 });
-//chipmunk
